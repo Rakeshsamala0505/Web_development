@@ -28,5 +28,4 @@ Find detailed information about various projects, offering insights into develop
 ## Future Plans
 
 We plan to build more templates for every user at a low cost, enhancing customization and flexibility.
-## NOTE:  
-This Project still in Progress... it contains only frontend Part in future we are going to add more features to it so every one can easily accessible.
+## NOTE:  This Project still in Progress... it contains only frontend Part in future we are going to add more features to it so every one can easily accessible.
